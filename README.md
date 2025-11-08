@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Ahmed 👋</h1>
 
 <p>Welcome to my GitHub profile!</br> 
-I'm <b>Ahmed H.</b>, a passionate <b>Frontend Developer</b> from 🇪🇬 <b>Egypt</b>.</br>
+I'm <b>Ahmed Moghira</b>, a passionate <b>Frontend Developer</b> from <b>Sudan</b>, Studying at UofK (FMSI).</br>
 I build modern, responsive, and user-friendly interfaces using the latest web and mobile technologies.
 </p>
 
